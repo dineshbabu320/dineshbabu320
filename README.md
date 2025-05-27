@@ -18,9 +18,9 @@
 </p>
 
 <style>
-  .langs img {
+.langs img {
     background-color: white;
-  }
+}
 </style>
 
 <div class="langs">
